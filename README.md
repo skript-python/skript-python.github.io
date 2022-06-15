@@ -1,2 +1,5 @@
-# skript-python.github.io
-test2
+# skript for python
+
+## Language
+- [English](https://example.com/ "English")
+- Francais
